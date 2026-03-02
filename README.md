@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Sanjay Kushwah
 
-<!--
-**ProSanjay/ProSanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Backend Specialist  
+💻 React • Node.js • MongoDB • AWS • Django  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Currently building scalable backend systems
+- ⚡ Working with React + Vite + TypeScript
+- 🛠️ Experienced in MongoDB, Apollo Server & Express
+- ☁️ Deploying apps on AWS
+- 🔐 Implementing Authentication & Payment Integration (Razorpay)
+- 🎯 Focused on clean architecture & performance
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+React | Vite | TypeScript | Redux
+
+### Backend
+Node.js | Express | Apollo Server | Django
+
+### Database
+MongoDB | PostgreSQL
+
+### DevOps & Tools
+AWS | Git | GitHub | VS Code | Docker
+
+---
+
+## 📊 GitHub Stats
+
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 🌎 Portfolio: https://yourportfolio.com
+- 📧 Email: your@email.com
