@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sanjay Kushwah
 
-🚀 Backend Engineer | Tech Lead | Scalable Systems Architect  
+🚀 Full Stack Developer ( Team Lead ) 
 📍 India  
 💼 4+ Years Experience Building Production-Grade Systems  
 
