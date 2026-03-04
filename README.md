@@ -1,112 +1,203 @@
-# Hi 👋 I'm Sanjay Kushwah
+# 🚀 Sanjay Kushwah
 
-🚀 Full Stack Developer ( Team Lead ) 
-📍 India  
-💼 4+ Years Experience Building Production-Grade Systems  
+### Team Lead \| Backend Engineer \| Distributed Systems \| AI Platforms
 
----
+`<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Backend+Engineer;Django+%7C+Node.js+%7C+API+Architecture;Distributed+Systems+Engineer;Fraud+Detection+Systems;Building+Scalable+Platforms" />`{=html}
 
-## 🧠 About Me
+------------------------------------------------------------------------
 
-I design and build high-performance backend systems, API gateways, and scalable microservices architectures.
+# 👨‍💻 About Me
 
-- 🔥 Built authentication system handling 10K+ users
-- 📡 Enabled real-time SSE updates for 50K+ IoT devices
-- ⚡ Improved application performance by 25%
-- ☁️ Deployed production systems on AWS
-- 🧩 Led API Gateway development using APISIX + Lua
-- 🐳 Built on-premise offline-first software (Order from Indian Army)
+I am a **Full Stack Engineer and Team Lead** specializing in building
+**high‑performance backend systems, scalable APIs, and distributed
+platforms**.
 
-I focus on **performance, scalability, clean architecture, and observability**.
+I work mainly with:
 
----
+-   Backend Engineering
+-   API Infrastructure
+-   Fraud Detection Systems
+-   IoT Data Platforms
+-   Machine Learning Integration
+-   Cloud & DevOps
 
-## 🛠️ Tech Stack
+------------------------------------------------------------------------
 
-### Backend
-- Python (Django, DRF)
-- Node.js
-- Lua (Custom APISIX Plugins)
-- Java (Spring Boot)
+# ⚡ Tech Stack
 
-### Frontend
-- React.js
-- Angular
-- TypeScript
-- Redux Toolkit
+## Backend
 
-### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
-### DevOps & Cloud
-- AWS
-- Docker
-- Nginx
-- APISIX
-- PM2
-- GCP (Basic)
+## Frontend
 
-### Observability
-- Grafana
-- Prometheus
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
 
-### AI / Data
-- Pandas
-- NumPy
-- KMeans Clustering
+## Databases
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-## 🚀 Key Achievements
+## DevOps
 
-### 🔹 API Gateway (APISIX)
-- Developed custom Lua plugins (Redis caching, response transformation)
-- Implemented API chaining
-- Built prepaid wallet system
-- Integrated real-time monitoring with Grafana + Prometheus
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 
-### 🔹 Microservices Migration
-- Migrated monolithic system to microservices
-- Improved deployment speed & scalability
-- Enhanced maintainability
+## Monitoring
 
-### 🔹 Offline Enterprise Software
-- Developed Docker-based on-premise system
-- Integrated OpenStreetMap for offline mapping
-- Solution secured enterprise-level order
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 
----
+## AI / Data
 
-## 📊 Production Experience
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-- Authentication systems (10K+ users)
-- Real-time streaming (50K+ devices)
-- Scalable API Architecture
-- Performance Optimization (30% API improvement)
-- Multi-environment database architecture
-- Cloud deployments (Dev + Production)
+------------------------------------------------------------------------
 
----
+# 🚨 Fraud Monitoring System
 
-## 📈 What I Bring To The Team
+Backend platform to detect suspicious transactions.
 
-✔ Scalable Backend Architecture  
-✔ Performance Optimization  
-✔ DevOps Awareness  
-✔ Team Leadership  
-✔ Clean & Maintainable Code  
-✔ Production Monitoring & Reliability  
+Features:
 
----
+-   Rule‑based fraud detection
+-   Machine learning anomaly detection
+-   Transaction monitoring APIs
+-   Alert & case management
+-   Audit logging
 
-## 📬 Let's Connect
+``` mermaid
+flowchart LR
+A[Client Transaction] --> B[API Gateway]
+B --> C[Django Fraud Engine]
+C --> D[Fraud Rules Engine]
+C --> E[ML Model]
+E --> F[Isolation Forest]
+D --> G[Fraud Alert]
+G --> H[Investigation Dashboard]
+```
 
-📧 058sanjaykushwah@gmail.com  
-🔗 LinkedIn: (Add your link here)  
-💻 LeetCode | GFG  
+------------------------------------------------------------------------
 
----
+# ⚡ API Gateway Architecture
 
-> "I build systems that scale, perform, and last."
+High‑performance gateway using **APISIX and Lua plugins**.
+
+Features:
+
+-   Redis caching
+-   Response transformation
+-   API chaining
+-   Wallet system
+
+``` mermaid
+flowchart LR
+Client --> APIGateway
+APIGateway --> RedisCache
+APIGateway --> AuthService
+APIGateway --> FraudService
+APIGateway --> PaymentService
+FraudService --> PostgreSQL
+PaymentService --> MongoDB
+```
+
+------------------------------------------------------------------------
+
+# 📡 Large Scale IoT Platform
+
+System handling **50K+ real‑time devices**.
+
+Technologies:
+
+-   Django SSE
+-   Google Maps API
+-   Rasterio
+-   ML clustering
+
+``` mermaid
+flowchart LR
+Devices --> IoTServer
+IoTServer --> DataProcessor
+DataProcessor --> MLClustering
+MLClustering --> MapVisualization
+```
+
+------------------------------------------------------------------------
+
+# 🏗 Key Projects
+
+## 🎓 Student Portal SaaS
+
+-   Multi‑tenant backend
+-   JWT authentication
+-   Role‑based access control
+-   Course management
+-   Learning progress tracking
+-   Secure video streaming
+
+## 🎉 Event CMS Platform
+
+Stack:
+
+-   React
+-   Node.js
+-   MongoDB
+-   Redux Toolkit
+
+Performance optimizations improved API efficiency.
+
+## 🪖 On‑Premise Platform
+
+Offline‑capable platform using:
+
+-   Angular
+-   Node.js
+-   Docker
+-   OpenStreetMap
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+![GitHub
+stats](https://github-readme-stats.vercel.app/api?username=ProSanjay&show_icons=true&theme=tokyonight)
+
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProSanjay&layout=compact&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+# 🔥 Contribution Graph
+
+![GitHub
+Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProSanjay&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+# 🐍 Contribution Snake
+
+![snake
+gif](https://github.com/ProSanjay/ProSanjay/blob/output/github-contribution-grid-snake.svg)
+
+------------------------------------------------------------------------
+
+# 🎯 2026 Goals
+
+-   Build large‑scale distributed systems
+-   Contribute to open‑source backend infrastructure
+-   Achieve 20+ LPA backend engineering roles
+
+------------------------------------------------------------------------
+
+# 📬 Contact
+
+📧 058sanjaykushwah@gmail.com
