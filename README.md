@@ -78,11 +78,11 @@ Features:
 
 ``` mermaid
 flowchart LR
-A[Client Transaction] --> B[API Gateway]
-B --> C[Django Fraud Engine]
+A[Client Transaction] --> C[Django Fraud Engine]
 C --> D[Fraud Rules Engine]
 C --> E[ML Model]
 E --> F[Isolation Forest]
+F --> G[Fraud Alert]
 D --> G[Fraud Alert]
 G --> H[Investigation Dashboard]
 ```
@@ -109,27 +109,6 @@ APIGateway --> FraudService
 APIGateway --> PaymentService
 FraudService --> PostgreSQL
 PaymentService --> MongoDB
-```
-
-------------------------------------------------------------------------
-
-# 📡 Large Scale IoT Platform
-
-System handling **50K+ real‑time devices**.
-
-Technologies:
-
--   Django SSE
--   Google Maps API
--   Rasterio
--   ML clustering
-
-``` mermaid
-flowchart LR
-Devices --> IoTServer
-IoTServer --> DataProcessor
-DataProcessor --> MLClustering
-MLClustering --> MapVisualization
 ```
 
 ------------------------------------------------------------------------
