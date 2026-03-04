@@ -1,8 +1,8 @@
 # 🚀 Sanjay Kushwah
 
-### Team Lead \| Backend Engineer \| Distributed Systems \| AI Platforms
+### Team Lead \| Full Stack Engineer \| Django & Python Backend | React Frontend \| AI Platforms | AWS
 
-`<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Backend+Engineer;Django+%7C+Node.js+%7C+API+Architecture;Distributed+Systems+Engineer;Fraud+Detection+Systems;Building+Scalable+Platforms" />`{=html}
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Building+API+Gateway;Building+Fraud+Monitoring+System;Build+Student+Portal;Build+Content+Management+System" />
 
 ------------------------------------------------------------------------
 
@@ -60,6 +60,7 @@ I work mainly with:
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-FF6F00?style=for-the-badge)
 
 ------------------------------------------------------------------------
 
@@ -166,15 +167,6 @@ Offline‑capable platform using:
 
 ------------------------------------------------------------------------
 
-# 📊 GitHub Stats
-
-![GitHub
-stats](https://github-readme-stats.vercel.app/api?username=ProSanjay&show_icons=true&theme=tokyonight)
-
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProSanjay&layout=compact&theme=tokyonight)
-
-------------------------------------------------------------------------
 
 # 🔥 Contribution Graph
 
@@ -183,21 +175,7 @@ Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProSanjay&theme=t
 
 ------------------------------------------------------------------------
 
-# 🐍 Contribution Snake
-
-![snake
-gif](https://github.com/ProSanjay/ProSanjay/blob/output/github-contribution-grid-snake.svg)
-
-------------------------------------------------------------------------
-
-# 🎯 2026 Goals
-
--   Build large‑scale distributed systems
--   Contribute to open‑source backend infrastructure
--   Achieve 20+ LPA backend engineering roles
-
-------------------------------------------------------------------------
 
 # 📬 Contact
 
-📧 058sanjaykushwah@gmail.com
+📧 058sanjaykushwah@gmail.com | 📱 +91 7082376877
